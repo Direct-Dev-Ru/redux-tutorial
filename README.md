@@ -1,3 +1,7 @@
+## Source: https://www.valentinog.com/blog/redux/#react-redux-tutorial-connecting-react-with-redux
+
+### `stop on redux-thunk`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
